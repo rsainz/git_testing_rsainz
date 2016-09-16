@@ -3,6 +3,7 @@
 	<name>git_testing_rsainz</name>
 	<comment></comment>
 	<projects>
+		<jaja2></jaja2>
 	</projects>
 	<buildSpec>
 	</buildSpec>
